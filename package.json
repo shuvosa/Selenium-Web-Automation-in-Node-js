@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "selenium-webdriver": "^4.22.0"
+  }
+}
